@@ -101,7 +101,7 @@ const styles = StyleSheet.create({
     fontWeight: '800',
   },
   rupee: {
-    marginRight: 8,
+    marginRight: 7,
 
     fontSize: 22,
     color: '#000000',
